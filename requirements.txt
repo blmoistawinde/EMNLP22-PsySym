@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tqdm
+blingfire
+torch
+pytorch-lightning
+transformers
+xopen
