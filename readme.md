@@ -2,7 +2,7 @@
 
 The code for the EMNLP 2022 paper [Symptom Identification for Interpretable Detection of Multiple Mental Disorders](https://arxiv.org/abs/2205.11308).
 
-Dataset can be provided upon request, please contact blmoistawinde@sjtu.edu.cn or chensiyuan925@sjtu.edu.cn 
+Dataset can be provided upon request, please contact blmoistawinde@qq.com or chensiyuan925@sjtu.edu.cn 
 
 ## Directory Organization
 
